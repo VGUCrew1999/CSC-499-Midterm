@@ -1,0 +1,43 @@
+Leetcode_Testing:
+An improved version of the Leetcode Reverse Integer Problem
+Still based on a 32-bit integer for input, but can reverse any integer in that range.
+It converts the input to a string and outputs the reversed integer, also as a string.
+It loops through the code until the user input tells it to stop.
+It also has an option to use the original Leetcode version of the solution.
+
+P0824a:
+A class project from Object Oriented Programming I.
+It takes no input.
+It outputs the results of the basic arithmetic functions in Java.
+It displays results with positive and negative numbers
+
+Lab1:
+A lab project from Object Oriented Programming I.
+The user inputs the number of cents they want to convert to dollars and coins.
+It takes the input as an integer and divides the values of each coin (quarters, dimes, etc) into it.
+After all values have been processed, it displays the minimum number of dollars and coins required to recreate the
+value of the user's input.
+
+
+Hw1:
+A homework project from Object Oriented Programming I.
+The user inputs test, homework, and lab scores into the program, as doubles.
+It then processes and weighs each score into an average.
+It then outputs the average for the scores.
+The scores are weighted as follows:
+midterm1: 10%
+midterm2: 15%
+final: 20%
+quizzes: 15%
+homework: 25%
+lab assignments: 15%
+
+The grades are input within ranges as follows:
+midterm1: 0-80
+midterm2: 0-100
+final: 0-200
+quizzes: 0-150
+homework: 0-240
+lab assignments: 0-300
+
+The overall grade is output in the range 0-100
